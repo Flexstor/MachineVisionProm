@@ -7,4 +7,4 @@
 ![Without dirty](https://github.com/Flexstor/MachineVisionProm/blob/master/tests/without%20dirty.png)
 
 ### Пример работы модели без загрязнений:
-![Without dirty](https://github.com/Flexstor/MachineVisionProm/blob/master/tests/without%20dirty.png)
+![Without dirty](https://github.com/Flexstor/MachineVisionProm/blob/master/tests/with%20dirty.png)
